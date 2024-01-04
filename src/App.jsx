@@ -125,7 +125,7 @@ function App() {
         <section className='section1'>
           
           <div className='section1-1'>
-            <h3 className='bienvenida'>Bienvenidos a Proyecto Web</h3>
+            <h3 className='bienvenida'>Bienvenidos a ELEVA</h3>
             {/* <img className='imgHero' src={imgHero} alt="" /> */}
             <p className='textHero1'>Diseñá y desarrollá tu página web
               ¡somos expertos creativos!</p>
@@ -134,7 +134,7 @@ function App() {
                     <button className='botonhero3'>Reunión gratuita 
                     <img className='vector' src={vector} alt="" /></button>
                   </a>
-            <p className='email'><img className='imgEmail' src={email} alt="" /><a className='email' href="mailto:proyectowebdevelopment@gmail.com">proyectowebdevelopment@gmail.com</a></p>
+            <p className='email'><img className='imgEmail' src={email} alt="" /><a className='email' href="mailto:proyectowebdevelopment@gmail.com">eleva.development@gmail.com</a></p>
           </div>
 
           <div className='section1-2'>
