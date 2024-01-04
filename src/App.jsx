@@ -336,7 +336,7 @@ function App() {
                         </div>
                     </div>
                     {/* <i className="fas fa-quote-right"></i> */}
-                    <p className='textoComent'>Estoy muy contento como quedó armada la página, es comoda y a los clientes se les facilita ver mi trabajo y contacto. Recomiendo mucho el trabajo de Proyecto Web para sus negocios. <br /><img className='vector-coment' src={vectorComent} alt=""/></p>
+                    <p className='textoComent'>Estoy muy contento como quedó armada la página, es comoda y a los clientes se les facilita ver mi trabajo y contacto. Recomiendo mucho el trabajo de Eleva para sus negocios. <br /><img className='vector-coment' src={vectorComent} alt=""/></p>
                   </div>
 
                   <div className="swiper-slide slide">
@@ -395,7 +395,7 @@ function App() {
             <div className='copi'>
               <p className='textFooter'>Córdoba, Argentina. Todos los derechos reservados ©</p>
               <img src={logo} className="logoFoter" alt="logo" />
-              <p className='textFooter'>+54 3544 - 614226</p>
+              <p className='textFooter'>+54 11-56032101</p>
               <p className='textFooter'>+54 358-4834859</p>
             </div>
           </footer>
