@@ -47,7 +47,7 @@ body{
 }
 
 #app-header{
-  background-color: rgb(10, 10, 10) !important;
+  background-color: rgb(240, 240, 240) !important;
   height: 10vh;
   display: flex;
   top: 0;
@@ -64,13 +64,13 @@ body{
 }
 
 .nav-link{
-  color: white !important;
+  color: rgb(22, 22, 22) !important;
   font-weight: 600;
   font-size: 1.2rem;
 }
 
 .nav-link:hover{
-  color: rgb(56, 99, 240) !important;
+  color: rgb(66, 108, 245) !important;
 }
 
 #navbarNav{
