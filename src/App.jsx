@@ -279,7 +279,7 @@ function App() {
                         ¡Nosotros nos encargamos de potenciar tu presencia online!</p>
                     </div>
                     <div className="info2">
-                        <img src={fotoGrupal} alt="" />
+                        <img src={logo} alt="" />
                     </div>
                 </div>
           </div>
@@ -379,10 +379,10 @@ function App() {
                       <a href="#">Contacto</a>
                     </div>
                     <div className='footerRedes'>
-                      <a href="https://www.facebook.com/proyectowebb" className='botonfoter' target='_blank'>
+                      <a href="#" className='botonfoter' target='_blank'>
                         <button className='botonhero5'>Facebook<img className='vector' src={vectoFB} alt="" /></button>
                       </a>
-                      <a href="https://www.instagram.com/proyecto.webb/" className='botonfoter' target='_blank'>
+                      <a href="#" className='botonfoter' target='_blank'>
                         <button className='botonhero5'>Instagram<img className='vector' src={vectoIG} alt="" /></  button>
                       </a>
                     </div>

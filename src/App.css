@@ -209,12 +209,13 @@ input{
   color: white;
 }
 .ventajas:hover{
-  background-color: rgb(30, 77, 231);
-  border-radius: 50px;
-  scale: 1.1;
+  background-color: rgb(63, 168, 238);
+  border-radius: 55px;
+  scale: 1.05;
   cursor: pointer;
   transition: .3s;
   padding: 15px;
+  box-shadow: 0px 0px 8px 0px white inset;
 }
 .tituloVentaja{
   margin-bottom: 5px;
@@ -452,11 +453,11 @@ input{
 .info2{
   width: 36%;
   display: flex;
-  justify-content: center;
+  justify-content: start;
 }
 .info2 img{
   object-fit: contain;
-  width: 90%;
+  width: 80%;
 }
 .herramientas{
   margin-top: -50px;
