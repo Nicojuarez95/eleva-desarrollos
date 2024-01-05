@@ -58,7 +58,7 @@ body{
 }
 
 #app-header img{
-  width: 310px;
+  width: 120px;
   object-fit: contain;
   padding: 0 !important;
 }
@@ -207,6 +207,14 @@ input{
   text-align: center;
   font-weight: 600;
   color: white;
+}
+.ventajas:hover{
+  background-color: rgb(30, 77, 231);
+  border-radius: 50px;
+  scale: 1.1;
+  cursor: pointer;
+  transition: .3s;
+  padding: 15px;
 }
 .tituloVentaja{
   margin-bottom: 5px;
@@ -718,6 +726,7 @@ footer{
 
 .logoFoter{
   object-fit: contain;
+  width: 110px;
 }
 
 .divHr{
@@ -867,7 +876,7 @@ footer{
 }
 @media (min-width: 320px) and (max-width: 850px) {
   #app-header img{
-    width: 245px;
+    width: 110px;
     object-fit: contain;
     padding: 0 !important;
   }
@@ -1133,7 +1142,7 @@ footer{
     font-size: .35rem;
   }
   .logoFoter{
-    width: 120px;
+    width: 100px;
   }
   .botonhero4 {
    margin-top: 5%;
