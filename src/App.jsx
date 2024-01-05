@@ -1,4 +1,4 @@
-import logo from '../src/Img/Logo PW Horizontal Blanco - Proyecto Web.png';
+import logo from '../src/Img/logoEleva.png';
 import imgHero from "../src/Img/imgHero.png"
 import dominio from "../src/Img/image 5.png"
 import responsive from "../src/Img/image 4.png"
