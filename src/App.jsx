@@ -270,10 +270,9 @@ function App() {
                     <div className="info">
                       <p className='sobreNosotrosTitulo'>Sobre Nosotros</p>
                       <p className='sobreNosotrosTitulo2'>¡Tu experiencia digital comienza ahora!</p>
-                      <p className='textNosotros'>¡Somos un equipo apasionado por el diseño UX/UI y desarrollo de código, hacemos que cada click sea una experiencia alucinante! Nos dedicamos a crear sitios webs, landing pages, e-commerce y mucho más, y lo hacemos con una obsesión por los detalles y un entusiasmo contagioso en cada paso del proceso. <br /><br />
+                      <p className='textNosotros'>¡Somos una joven y apasionada startup especializada en el desarrollo de aplicaciones y páginas web personalizadas que impulsan el crecimiento y la presencia en línea de nuestros clientes. En ELEVA, creemos que cada proyecto es único y merece una solución a medida. Nos enorgullece ofrecer un enfoque colaborativo y centrado en el cliente, trabajando estrechamente con nuestros socios para comprender sus objetivos y convertir sus ideas en experiencias digitales impactantes! <br /><br />
 
-                        Somos Nicolás Juárez y Bruno Rossetti, dos apasionados de la magia digital.
-                        Mientras Nico proviene del mundo de la informática como desarrollador web full stack, Bruno viene de una fusión entre la arquitectura y el diseño gráfico. <br /><br />
+                      Transformamos ideas en realidad digital. Buscamos ser pioneros en la creación de soluciones tecnológicas innovadoras y escalables que impulsen el éxito de nuestros clientes. Nos esforzamos por superar las expectativas, brindando productos de calidad que destaquen en un mundo digital en constante evolución. <br /><br />
 
                         ¿Querés impulsar tu negocio hacia el éxito?
                         ¡Nosotros nos encargamos de potenciar tu presencia online!</p>
